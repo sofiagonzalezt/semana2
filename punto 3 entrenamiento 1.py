@@ -103,8 +103,7 @@ for m in M:
 for n in N:
     for m in M:
         nut= sum(H[n,r]*x[r,m])
-        print("la cantidad en Kg de nutriente a producir de ", n, "es ", nut, " para el medio de cultivo ", m)
-    
+print J    
 #for m in M:
  #  for r in R:
   #      print("la cantidad del recurso ", r, " para el medio de cultivo", m, "  es ", cantidad)
