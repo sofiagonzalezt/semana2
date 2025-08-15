@@ -107,3 +107,10 @@ print J
 #for m in M:
  #  for r in R:
   #      print("la cantidad del recurso ", r, " para el medio de cultivo", m, "  es ", cantidad)
+s=3+5
+print s
+
+i=10*5
+print i 
+
+
